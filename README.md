@@ -29,8 +29,7 @@
 ```sh
     http://localhost:3000/
 ```
-
-##Deployed version is available on github pages just check it out!
+## 📌 Deployed Version is available on github pages just check it out!
 
 ![ForTheBadge built-with-love](https://forthebadge.com/images/badges/built-with-love.svg)
 ![ForTheBadge built-by-developers](https://forthebadge.com/images/badges/powered-by-coffee.svg)
