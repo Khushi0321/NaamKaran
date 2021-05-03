@@ -9,7 +9,7 @@
 
 ## 📌 Introduction
 
- It is a name suggestion application which will help you to give a good name to your next project.
+ It is a name suggestion application that will help you to give a good name to your next project.
 
  All we need to do just put in the keywords related to that project and the app will give us the best suggestions.
 
